@@ -4,6 +4,8 @@ Version: 1.1.0
 Release Date: 2011-12-12
 "www.pololu.com":http://www.pololu.com/
 
+*This library is deprecated; you should use the newer Pololu "L3G library":https://github.com/pololu/L3G instead, which also supports the L3GD20.*
+
 h2. Summary
 
 This is a library for the "Arduino":http://pololu.com/catalog/product/1616 that interfaces with the Pololu "L3G4200D 3-axis gyro carrier":http://www.pololu.com/catalog/product/1272. It makes it simple to read the raw gyro data.
